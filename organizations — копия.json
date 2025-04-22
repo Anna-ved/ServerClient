@@ -1,0 +1,41 @@
+[ {
+  "id" : 1,
+  "name" : "Apple",
+  "coordinates" : {
+    "x" : 34,
+    "y" : 34.0
+  },
+  "creationDate" : [ 2025, 2, 25, 14, 28, 41, 964257500 ],
+  "annualTurnover" : 40000,
+  "fullName" : "",
+  "employeesCount" : 200000,
+  "type" : "PUBLIC",
+  "postalAddress" : {
+    "zipCode" : "7328",
+    "town" : {
+      "x" : 34,
+      "y" : 3,
+      "name" : "Apple"
+    }
+  }
+}, {
+  "id" : 2,
+  "name" : "Flowers",
+  "coordinates" : {
+    "x" : 43,
+    "y" : 67.0
+  },
+  "creationDate" : [ 2025, 2, 25, 16, 26, 39, 303315100 ],
+  "annualTurnover" : 64327859,
+  "fullName" : "Flowers",
+  "employeesCount" : 4000,
+  "type" : "COMMERCIAL",
+  "postalAddress" : {
+    "zipCode" : "56728",
+    "town" : {
+      "x" : 32,
+      "y" : 54,
+      "name" : "Flowers"
+    }
+  }
+} ]
